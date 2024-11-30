@@ -1,5 +1,5 @@
 variable "project_name" {
-    default = "expense"
+    default = "expense1"
 }
 
 variable "environment" {
